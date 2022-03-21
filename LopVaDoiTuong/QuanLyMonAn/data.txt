@@ -1,0 +1,12 @@
+﻿Tôm hấp bia ^Hải sản^Kg^300000
+Tôm nướng muối ớt^Hải sản^Kg^300000
+Mực chiên nước mắm^Hải sản^Kg^370000
+Cơm chiên dương châu^Cơm^Dĩa^80000
+Cơm chiên cá mặn^Cơm^Dĩa^90000
+Rau muống xào tỏi^Rau^Dĩa^60000
+Rau rừng xào tỏi^Rau^Dĩa^60000
+Ngũ quả luộc^Rau^Dĩa^70000
+Lẩu thái^Lẩu^Nồi^220000
+Lẩu hải sản^Lẩu^Nồi^240000
+Lẩu nấm^Lẩu^Nồi^200000
+Lẩu cá hồi^Lẩu^Nồi^370000

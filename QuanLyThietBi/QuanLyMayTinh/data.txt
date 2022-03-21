@@ -1,0 +1,7 @@
+﻿CPU,Intel,300 * CPU,AMD,350 * RAM,SamSung,50 * HDD,Seagate,500
+CPU,AMD,280 * CPU,AMD,350 * RAM,SamSung,40 * HDD,Seagate,500
+CPU,AMD,250 * CPU,Intel,350 * RAM,SamSung,60 * HDD,Seagate,500
+CPU,Intel,350 * CPU,AMD,280 * RAM,SamSung,55 * HDD,Seagate,500
+CPU,Intel,320 * CPU,Intel,270 * RAM,SamSung,54 * HDD,Seagate,500
+CPU,AMD,290 * CPU,AMD,350 * RAM,SamSung,45 * HDD,Seagate,500
+CPU,Intel,310 * CPU,Intel,300 * RAM,SamSung,60 * HDD,Seagate,500
